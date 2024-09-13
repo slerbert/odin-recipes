@@ -1,0 +1,1 @@
+This is a simple website using HTML that forms part of The Odin Project curriculum. 
